@@ -44,6 +44,11 @@ Table OF Contents
 
 /* -- typography -- */
 
+.mainlogo{
+    height:450px;
+    width:400px;
+}
+
 body {
     font-family: 'Varela Round', sans-serif;
     font-size: 16px;
@@ -100,6 +105,7 @@ a:hover, a:focus {
 
 .white-text {
     color: #FFF;
+    font-size:22px;
 }
 
 ::-moz-selection {
@@ -265,7 +271,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .navbar-brand .logo, .navbar-brand .logo-alt {
-    max-height: 50px;
+    max-height: 20px;
     display: block;
 }
 

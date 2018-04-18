@@ -977,9 +977,9 @@ header {
 
 .testimonial-meta {
     position: relative;
-    padding-left: 90px;
-    height: 70px;
-    margin-bottom: 20px;
+    padding-left: 80px;
+    height: 190px;
+    margin-bottom: 60px;
     padding-top: 10px;
 }
 
@@ -987,8 +987,8 @@ header {
     position: absolute;
     left: 0;
     top: 0;
-    width: 70px !important;
-    height: 70px !important;
+    width: 250px !important;
+    height: 250px !important;
     border-radius: 50%;
 }
 

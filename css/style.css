@@ -105,7 +105,7 @@ a:hover, a:focus {
 
 .white-text {
     color: #FFF;
-    font-size:22px;
+    font-size:20px;
 }
 
 ::-moz-selection {
@@ -978,8 +978,8 @@ header {
 .testimonial-meta {
     position: relative;
     padding-left: 80px;
-    height: 190px;
-    margin-bottom: 60px;
+    height: 50px;
+    margin-bottom: 50px;
     padding-top: 10px;
 }
 
@@ -993,11 +993,11 @@ header {
 }
 
 .testimonial h3 {
-    margin-bottom: 5px;
+    margin-bottom: 3px;
 }
 
 .testimonial span {
-    font-size: 14px;
+    font-size: 15px;
     color: #00BAEA;
     text-transform: uppercase;
 }

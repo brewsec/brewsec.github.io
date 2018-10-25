@@ -67,6 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: 54px;
+    color: #FFF;
 }
 
 h2 {
@@ -150,7 +151,7 @@ ul, ol {
 }
 
 .bg-dark {
-    background-color: #1C1D21;
+    background-color: #000000;
 }
 
 
